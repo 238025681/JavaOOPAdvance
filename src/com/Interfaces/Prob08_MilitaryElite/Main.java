@@ -102,15 +102,15 @@ public class Main {
     }
 
     private static List<Private> getPrivates(String[] commands) {
-        List<Private> curentList = new LinkedList<>();
+        List<Private> currentList = new LinkedList<>();
         for (int i = 5; i < commands.length; i++) {
 
             int privateID = Integer.parseInt(commands[i]);
             Private tempPrivate = (Private) soldiers.stream().filter(s -> s.getId() == privateID).findFirst().orElse(null);
-            curentList.add(tempPrivate);
+            currentList.add(tempPrivate);
 
         }
-        return curentList;
+        return currentList;
     }
 
     private static List<Repairs> getRepairs(String[] commands) {

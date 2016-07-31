@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/kalin/Desktop/NetBeansProjects/PetClinics/src/controler/Core.java</file>
+            <file>file:/home/kalin/Desktop/NetBeansProjects/PetClinics/src/models/ClinicImpl.java</file>
+            <file>file:/home/kalin/Desktop/NetBeansProjects/PetClinics/src/models/PetImpl.java</file>
+            <file>file:/home/kalin/Desktop/NetBeansProjects/PetClinics/src/controler/command/AddCommand.java</file>
+            <file>file:/home/kalin/Desktop/NetBeansProjects/PetClinics/src/models/RoomImpl.java</file>
+            <file>file:/home/kalin/Desktop/NetBeansProjects/PetClinics/src/IO/WriterOutputImpl.java</file>
+            <file>file:/home/kalin/Desktop/NetBeansProjects/PetClinics/src/controler/command/PrintCommand.java</file>
+            <file>file:/home/kalin/Desktop/NetBeansProjects/PetClinics/src/Main.java</file>
+            <file>file:/home/kalin/Desktop/NetBeansProjects/PetClinics/src/controler/command/ReleaseCommand.java</file>
+        </group>
+    </open-files>
+</project-private>
